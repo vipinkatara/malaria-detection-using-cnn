@@ -5,6 +5,12 @@
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
+
+## Prerequisites
+To use it, you require the following:
+
+1. Docker (I used it for etcd, if you have it already then there is no need to install docker)
+2. Python3
 	
 ## Technologies
 Project is created with:
