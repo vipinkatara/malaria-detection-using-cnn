@@ -9,8 +9,18 @@ This project is simple Lorem ipsum dolor generator.
 ## Prerequisites
 To use it, you require the following:
 
-1. Docker (I used it for etcd, if you have it already then there is no need to install docker)
-2. Python3
+```
+1. Python3
+2. Pip
+```
+
+## Installing
+Once you got the requisites on your machine, execute the following command:
+
+```
+$ pip install -r requirements.txt
+```
+This will install all the required libraries for you.
 	
 ## Technologies
 Project is created with:
