@@ -1,4 +1,4 @@
-The detailed article of this project can be found [here](#https://vipinkatara2.medium.com/detecting-malaria-from-cell-images-using-cnn-e9ab9346cb0)
+The detailed article of this project can be found [here.](https://vipinkatara2.medium.com/detecting-malaria-from-cell-images-using-cnn-e9ab9346cb0)
 
 ## Table of contents
 * [General info](#general-info)
