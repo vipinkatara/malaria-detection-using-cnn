@@ -22,11 +22,15 @@ $ pip install -r requirements.txt
 ```
 This will install all the required libraries for you.
 	
-## Technologies
+## Dependencies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Keras: ```pip install keras```
+* Numpy: ```pip install numpy```
+* Matplotlib: ```pip install matplotlib```
+* Seaborn: ```pip install seaborn```
+* Scikit Learn: ```pip install sklearn```
+* OpenCV: ```pip install cv2```
+
 	
 ## Setup
 To run this project, install it locally using npm:
