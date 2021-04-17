@@ -1,7 +1,12 @@
-sklearn
-numpy
+click
+h5py
+scikit-learn
+numpy 
 pandas
-matplotlib
+matplotlib 
 seaborn
 keras
-opencv-python
+opencv-python 
+flask
+werkzeug
+tensorflow
