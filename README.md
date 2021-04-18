@@ -42,4 +42,4 @@ else run the ```malaria_detection.py``` file.
 
 Open a new terminal and execute the following:
 
-```$ python3 malaria_detection.py```
+```$ python3 app.py```
