@@ -37,9 +37,11 @@ Project is created with:
 
 	
 ## Setup
-To run this project, you can directly open the ```malaria_detection.ipynb``` in jupyter notebook or google colab.
+To train the model, you can directly open the ```malaria_detection.ipynb``` in jupyter notebook or google colab.
 else run the ```malaria_detection.py``` file.
 
-Open a new terminal and execute the following:
+```$ python3 malaria_detection.py```
+
+To run the project, open a new terminal and execute the following:
 
 ```$ python3 app.py```
